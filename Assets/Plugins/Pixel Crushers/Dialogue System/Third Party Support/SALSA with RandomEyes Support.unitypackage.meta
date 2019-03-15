@@ -1,11 +1,7 @@
 fileFormatVersion: 2
-guid: 564ba99ecb86b494488bd8a2c5595c0d
-labels:
-- Lipsync
-- Voiceover
-- Salsa
-- Randomeyes
+guid: cd3b189ff40f47c4388a6bfbd9a790dd
 DefaultImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

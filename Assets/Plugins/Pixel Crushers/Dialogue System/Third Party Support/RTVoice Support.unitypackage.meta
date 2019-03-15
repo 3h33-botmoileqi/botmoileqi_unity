@@ -1,11 +1,7 @@
 fileFormatVersion: 2
-guid: 2f034bb78093baf41a5b14693eefb6ba
-labels:
-- Rt-voice
-- Rtvoice
-- Tts
-- Speech
+guid: 0173594ce64c84542a82d51b0feb9cb8
 DefaultImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: f378e7f676cddd84ea6c3d5b6dd19672
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackWall
+    100002: doorleft
+    100004: doorright
+    100006: Elevator
+    100008: Elevator 1
+    100010: Elevator.Shape
+    100012: elevatorshaft
+    100014: //RootNode
+    100016: Level19_100328
+    100018: Level19_100328.Shape
+    100020: Main
+    100022: Steps
+    400000: BackWall
+    400002: doorleft
+    400004: doorright
+    400006: Elevator
+    400008: Elevator 1
+    400010: Elevator.Shape
+    400012: elevatorshaft
+    400014: //RootNode
+    400016: Level19_100328
+    400018: Level19_100328.Shape
+    400020: Main
+    400022: Steps
+    2100000: Concrete
+    2100002: Conccrete01
+    2100004: Metal02
+    2100006: Pipe02
+    2100008: Metal01
+    2100010: LED
+    2100012: Railing
+    2100014: Panel01
+    2100016: Throttle
+    2100018: ThrottleSphere
+    2100020: Dial
+    2100022: Cable01
+    2100024: Floor
+    2100026: FloorBase
+    2100028: Elevatorcolumn
+    2100030: LghtSticks
+    2100032: Steps
+    2100034: StepsLights
+    2100036: TunnelFloor
+    2100038: StepsSides
+    2100040: TunnelWall
+    2100042: ScreenFrame
+    2100044: ScreenGlass
+    2100046: Sign04
+    2100048: Detail01
+    2100050: TunnelTrim
+    2100052: Sign03
+    2100054: ColumnLights
+    2100056: DoorsGlass
+    2100058: Doors
+    2100060: Cables01
+    2100062: GlowSticks
+    2100064: Wall01
+    2100066: WallButrress
+    2100068: Concrete01
+    2100070: Vents
+    2100072: Wall02
+    2100074: Ceiling02
+    2100076: Floor01
+    2100078: Void
+    2100080: Sign02
+    2100082: Sign01
+    2100084: WallInset
+    2100086: CatWalk
+    2100088: Pipe08
+    2100090: Pipe09
+    2100092: Pipe07
+    2100094: Glow-MainDoor
+    2100096: Walls03
+    2100098: Buttressdrk
+    2100100: ButtressSigns
+    2100102: DialLED
+    2100104: LadderEntrance
+    2100106: MainDoorFrame
+    2100108: Column02
+    2100110: Column01
+    2100112: Column03
+    2100114: Pipe09a
+    2100116: Buttress
+    2100118: CatWalkFraming
+    2100120: CentralPillarsBraces
+    2100122: CentralColumns
+    2100124: FlooringTrimGlow
+    2100126: Ceiling
+    2100128: Neon
+    2100130: LargePipes02
+    4300000: Elevator.Shape
+    4300002: Level19_100328.Shape
+    9500000: //RootNode
+    13700000: Elevator.Shape
+    13700002: Level19_100328.Shape
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
