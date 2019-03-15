@@ -73,6 +73,7 @@ namespace Crosstales.RTVoice.Util
             //Debug.LogFormat ("riff={0} wave={1} subchunk1={2} format={3} channels={4} sampleRate={5} byteRate={6} blockAlign={7} bitDepth={8} headerOffset={9} subchunk2={10} filesize={11}", riff, wave, subchunk1, formatCode, channels, sampleRate, byteRate, blockAlign, bitDepth, headerOffset, subchunk2, fileBytes.Length);
 
             float[] data;
+            Debug.Log("bitdepth:"+bitDepth+"/Name:"+name);
             switch (bitDepth)
             {
                 case 8:
