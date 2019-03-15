@@ -226,11 +226,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11493764, guid: 966d2b798e0a0e044876ba6826f06a5b, type: 2}
       propertyPath: MaryTTSMode
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11493764, guid: 966d2b798e0a0e044876ba6826f06a5b, type: 2}
       propertyPath: MaryTTSUrl
-      value: http://34.245.46.164
+      value: http://
       objectReference: {fileID: 0}
     - target: {fileID: 11493764, guid: 966d2b798e0a0e044876ba6826f06a5b, type: 2}
       propertyPath: CustomMode
